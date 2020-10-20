@@ -14,5 +14,13 @@
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wissanukhong/portfolio-website-wissanu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wissanukhong/portfolio-website-wissanu/issues"
+  },
+  "homepage": "https://github.com/Wissanukhong/portfolio-website-wissanu#readme",
   "description": ""
 }
